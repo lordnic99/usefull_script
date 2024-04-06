@@ -1,0 +1,3 @@
+[submodule "neovim_setup"]
+	path = neovim_setup
+	url = git@github.com:lordnic99/neovim_setup.git
